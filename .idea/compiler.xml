@@ -7,8 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="loopDemo" />
-        <module name="RecapDemo1" />
+        <module name="recapDemo2" />
         <module name="arraysDemo" />
+        <module name="RecapDemo1" />
       </profile>
     </annotationProcessing>
   </component>
