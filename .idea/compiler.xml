@@ -12,6 +12,7 @@
         <module name="arraysDemo" />
         <module name="stringsDemo" />
         <module name="RecapDemo1" />
+        <module name="miniprojeasalsayi" />
       </profile>
     </annotationProcessing>
   </component>
