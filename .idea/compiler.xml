@@ -11,6 +11,7 @@
         <module name="recapDemo2" />
         <module name="arraysDemo" />
         <module name="mukemmelsayi" />
+        <module name="method" />
         <module name="sayiBulma" />
         <module name="sesliharfler" />
         <module name="stringsDemo" />
