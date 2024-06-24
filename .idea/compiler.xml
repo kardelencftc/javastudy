@@ -14,9 +14,10 @@
         <module name="method" />
         <module name="sayiBulma" />
         <module name="sesliharfler" />
-        <module name="stringsDemo" />
         <module name="RecapDemo1" />
         <module name="arkadassayilar" />
+        <module name="methods2" />
+        <module name="stringsDemo" />
         <module name="miniprojeasalsayi" />
       </profile>
     </annotationProcessing>
