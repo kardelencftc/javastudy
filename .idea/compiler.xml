@@ -16,10 +16,14 @@
         <module name="sesliharfler" />
         <module name="RecapDemo1" />
         <module name="arkadassayilar" />
+        <module name="classes1" />
         <module name="methods2" />
         <module name="stringsDemo" />
         <module name="miniprojeasalsayi" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="classes" target="21" />
+    </bytecodeTargetLevel>
   </component>
 </project>
