@@ -20,6 +20,7 @@
         <module name="classes1" />
         <module name="methods2" />
         <module name="classesWithAttributes" />
+        <module name="methodOverloading" />
         <module name="stringsDemo" />
         <module name="miniprojeasalsayi" />
       </profile>
