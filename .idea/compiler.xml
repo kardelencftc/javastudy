@@ -13,6 +13,7 @@
         <module name="mukemmelsayi" />
         <module name="method" />
         <module name="sayiBulma" />
+        <module name="inheritance" />
         <module name="sesliharfler" />
         <module name="ReCapDemo_Classes" />
         <module name="RecapDemo1" />
