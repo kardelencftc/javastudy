@@ -22,6 +22,7 @@
         <module name="methods2" />
         <module name="classesWithAttributes" />
         <module name="methodOverloading" />
+        <module name="inheritanceDemo" />
         <module name="stringsDemo" />
         <module name="miniprojeasalsayi" />
       </profile>
