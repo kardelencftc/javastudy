@@ -19,8 +19,9 @@
         <module name="ReCapDemo_Classes" />
         <module name="RecapDemo1" />
         <module name="arkadassayilar" />
+        <module name="abstractClasses" />
         <module name="classes1" />
-        <module name="abstrackClasses" />
+        <module name="abstractDemo" />
         <module name="methods2" />
         <module name="classesWithAttributes" />
         <module name="overriding" />
