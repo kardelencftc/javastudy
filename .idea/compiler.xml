@@ -9,6 +9,7 @@
         <module name="loopDemo" />
         <module name="multiDimensionalArrayDemo" />
         <module name="recapDemo2" />
+        <module name="polymorphismDemo" />
         <module name="arraysDemo" />
         <module name="mukemmelsayi" />
         <module name="method" />
