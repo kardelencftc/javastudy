@@ -22,6 +22,7 @@
         <module name="classes1" />
         <module name="methods2" />
         <module name="classesWithAttributes" />
+        <module name="overriding" />
         <module name="methodOverloading" />
         <module name="inheritanceDemo" />
         <module name="stringsDemo" />
