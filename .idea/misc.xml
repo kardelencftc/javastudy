@@ -26,6 +26,7 @@
         <option value="$PROJECT_DIR$/inheritanceDemo/pom.xml" />
         <option value="$PROJECT_DIR$/polymorphismDemo/pom.xml" />
         <option value="$PROJECT_DIR$/overriding/pom.xml" />
+        <option value="$PROJECT_DIR$/abstrackClasses/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

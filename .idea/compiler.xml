@@ -20,6 +20,7 @@
         <module name="RecapDemo1" />
         <module name="arkadassayilar" />
         <module name="classes1" />
+        <module name="abstrackClasses" />
         <module name="methods2" />
         <module name="classesWithAttributes" />
         <module name="overriding" />
